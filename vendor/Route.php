@@ -3,5 +3,7 @@
 
 class Route
 {
-    static $init;
+    static public function init(){
+
+    }
 }
